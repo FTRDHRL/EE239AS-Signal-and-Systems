@@ -41,7 +41,7 @@ $ python project3.py -q 5
 - Dataset : Initially empty. Will contain pickle files of Pre-processed data & LSI matrices after first execution.
 - Graphs : Comprises of all graphs that are plotted for all questions.
 - Scripts : Contains all the python scripts required to execute the project.
-            - project2.py : Main file that is executed to get results
+            - project3.py : Main file that is executed to get results
             - execute.py : Comprises for code for each question in the project.
             - utility.py : Imported by execute.py comprises of generic functions to execute
                            * Load Dataset          		

@@ -9,7 +9,7 @@ Ronak Sumbaly - 604591897
 The following README contains the requirements and steps that are required to execute Project 3. 
 The structure of the folders have also be explained. 
 
-### IMPLEMENATION ###
+### IMPLEMENTATION ###
 ## Dependencies ##
 a. numpy v1.10.4
 b. scipy v0.16.1

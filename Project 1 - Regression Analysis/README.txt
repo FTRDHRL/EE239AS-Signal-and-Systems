@@ -9,7 +9,7 @@ Ronak Sumbaly - 604591897
 The following README contains the requirements and steps that are required to execute Project 1. 
 The structure of the folders have also be explained. 
 
-### IMPLEMENATION ###
+### IMPLEMENTATION ###
 ## Dependencies ##
 a. pandas v0.17.0
 b. numpy v1.10.4
